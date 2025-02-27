@@ -17,3 +17,9 @@ git pull origin main
 
 # push changes to remote repository
 git push origin main
+
+# Echo synchronization complete message
+echo "Synchronization complete"
+
+
+
